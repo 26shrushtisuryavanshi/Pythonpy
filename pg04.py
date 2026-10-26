@@ -30,3 +30,11 @@ print(type(a))
 print(a.real) 
 print(a.imag) 
 print(a + b) 
+
+
+name = 'Alice'
+city = "Nagpur"
+message = """Welcome to Python!"""
+print(name)
+print(city)
+print(message) 
