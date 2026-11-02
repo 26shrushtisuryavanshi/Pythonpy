@@ -1,6 +1,7 @@
-class Car:   
+class Student:
     def __init__(self):
-        self.speed = 0
+        print("Constructor called")
 
-    def start(self):
-        print("The car is starting")
+s1 = Student()
+
+print("Program executed successfully")
